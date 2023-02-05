@@ -1,0 +1,11 @@
+Using template 'E:/ProgramFiles2/Unity/2021.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer\Apk\UnityManifest.xml'
+
+android.permission.INTERNET was added because:
+	Force Internet Permission
+android.permission.WRITE_EXTERNAL_STORAGE was added because:
+	Force SDCard Permission
+android.hardware.touchscreen.multitouch, android.hardware.touchscreen.multitouch.distinct were enabled because:
+	UnityEngine.Input::GetTouch was present in:
+		UnityEngine.UI-FeaturesChecked.txt
+	UnityEngine.Input::get_touchCount was present in:
+		UnityEngine.UI-FeaturesChecked.txt
